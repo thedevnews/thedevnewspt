@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TheDev News PT</title>
+    <link href="https://www.thedevnews.ga/feed.xml" rel="self" />
+    <link href="https://www.thedevnews.ga" />
+    <updated>2022-01-11T00:29:03-03:00</updated>
+    <author>
+        <name>TheDev News</name>
+    </author>
+    <id>https://www.thedevnews.ga</id>
+
+    <entry>
+        <title>Queda de rocha em Capitólio deixa 10 mortos.</title>
+        <author>
+            <name>TheDev News</name>
+        </author>
+        <link href="https://www.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/"/>
+        <id>https://www.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/</id>
+            <category term="Brasil"/>
+
+        <updated>2022-01-11T00:29:03-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
+                    Uma queda de rochas deixou 10 mortos além de aproximadamente 32 feridos na cidade de Capitólio em Minas Gerais. “Sofremos hoje a dor de uma tragédia em nosso Estado, devido às fortes chuvas, que provocaram o desprendimento de um paredão de pedras no lago de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
+                <p>Uma queda de rochas deixou 10 mortos além de aproximadamente 32 feridos na cidade de Capitólio em Minas Gerais.</p>
+<figure class="post__image" ><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/0/04/Deslizamento_em_Capit%C3%B3lio.jpeg" data-is-external-image="true"  alt="Vídeo gravado com momentos antes do acidente" width="463" height="500">
+<figcaption >Vídeo gravado por turista momentos antes do acidente</figcaption>
+</figure>
+<p>“Sofremos hoje a dor de uma tragédia em nosso Estado, devido às fortes chuvas, que provocaram o desprendimento de um paredão de pedras no lago de Furnas, em Capitólio. O Governo de Minas está presente desde os primeiros momentos através da Defesa Civil e Corpo de Bombeiros” - disse, pelo twitter, o governador de Minas Gerais, <a href="https://pt.wikipedia.org/wiki/Romeu_Zema" target="_blank" rel="nofollow noopener noreferrer">Romeu Zema</a> do partido <a href="https://pt.wikipedia.org/wiki/Partido_Novo" rel="nofollow">NOVO</a>.</p>
+<p>O desabamento ocorreu aproximadamente ás 12h30 do horário local no Lago de Furnas em Capitólio, no condomínio Escarpas do Lago, atingindo cerca de 70 a 100 pessoas que estavam no local, que estava isolado e fechado.</p>
+<p>Como informado inicialmente pelo Corpo de Bombeiros, uma "tromba d'água" junto as pedras, foi o que causou o deslizamento, porém, de acordo com o especialista em gerenciamento de risco Gustavo Cunha Melo, a tromba d'água por ter agido como uma espécie de  gatilho para o deslizamento, e não necessariamente como a causa do problema. De acordo com Gustavo, a rocha iria se desprender de qualquer maneira, devido a <a href="https://pt.wikipedia.org/wiki/Eros%C3%A3o" rel="nofollow">erosão</a>.</p>
+<p>O porta-voz do corpo de bombeiros de Minas Gerais, Pedro Aihara, disse que a formação rochosa do local e as chuvas na região facilitaram para que o deslizamento ocorresse, e que a forma que a rocha caiu, piorou a situação.</p>
+<p>Mais de 40 militares estiveram na região, incluindo mergulhadores, o Corpo de Bombeiros e o Batalhão de Operações Aéreas. A delegacia Fluvial de Furnas deslocou imediatamente a equipe de Busca e Salvamento (SAR) para o local. Foram encontrados cerca de 10 mortos e 32 sobreviventes, a maioria com ferimentos leves. 27 foram atendidas e liberadas: 23 delas da Santa Casa de Capitólio e outras 4 da Santa Casa de São José da Barra. Quatro seguem internadas.</p>
+<p>A Marinha do Brasil divulgou uma nota oficial pouco tempo depois informando que: "Um inquérito será instaurado para apurar causas, circunstâncias do acidente/fato ocorrido.".</p>
+<p>O governador prestou solidariedade as famílias das vítimas: "Solidarizo com as famílias neste difícil momento. Seguiremos atuando para fornecer o apoio e amparo necessários".</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
